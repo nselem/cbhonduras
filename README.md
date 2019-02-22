@@ -21,7 +21,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 <table> 
     <tr><td> <b> Sesión 1 Introducción y Linux bash </b> <br>
 1.1 Introducción a la biología y genética molecular. 
-    Aplicaciones de biología computacional es usada. <br>
+    Aplicaciones de biología computacional. <br>
 1.2 Biohack y la filosofía open software. <br>
     Diseño en TinkerCad  <br>
 1.3.1 Linux/Unix, Principios básicos del Shell  <br>
