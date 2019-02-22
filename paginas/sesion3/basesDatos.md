@@ -21,6 +21,7 @@ Anota en RAST Streptomyces coelicolor y tu organismo ensamblado
 Compáralos  
 
 ### [MIBiG](https://mibig.secondarymetabolites.org)    
+![antibioticos](antibioticos.png)
 Obten la secuencia de un gen que pertenezca a un cluster de antibióticos y anótala en el documento colaborativo  
 
 ### [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
