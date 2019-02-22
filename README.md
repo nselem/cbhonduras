@@ -37,10 +37,10 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 ## Temario detallado  
 <table> 
 <tr>
-<td> <b> Sesión 1 Introducción y Linux bash </b> <br>
+<td> <b> Sesión 1 <a href="https://docs.google.com/presentation/d/1KAqX-04a1SJ_7_JD8wbF9rTOHVcUfmHmMM2xhBKcLI4/edit?usp=sharing">Introducción</a> y <a href="https://swcarpentry.github.io/shell-novice-es/">Linux bash</a> </b> <br>
 1.1 Introducción a la biología y genética molecular. <br>
 Aplicaciones de biología computacional. <br>
-1.2 Biohack y la filosofía open software. <br>
+  1.2 <a href="http://biohackacademy.github.io/">Biohack </a> y la filosofía open software. <br>
 Diseño en TinkerCad  <br>
 1.3.1 Linux/Unix, Principios básicos del Shell  <br>
 1.3.2 Comandos para el manejo de archivos y directorios   <br>
