@@ -46,7 +46,7 @@ Diseño en TinkerCad  <br>
 1.3.2 Comandos para el manejo de archivos y directorios   <br>
 1.3.3 Pipes y filtros   <br>
 </td>
-<td> <b> Sesión 2: Algoritmos Biológicos </b>  <br>
+  <td> <b> <a href="paginas/sesion2/algoritmos.md" >Sesión 2:</a> Algoritmos Biológicos </b>  <br>
 2.1 Ensamblado  <br>  
 2.2 Alineamiento  <br>
 2.3 BLAST   (16s) <br>
