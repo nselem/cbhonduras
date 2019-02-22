@@ -47,9 +47,8 @@ Redes de información. STRING PriA la historia de los operones
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
 4.4 Editar archivos para microreact: One liners <br>  
-4.5 Seaview crear un arbol para microreact. <br>   </td> </tr>
-
-</td>
+4.5 Seaview crear un arbol para microreact. <br>  
+         </td> 
       <td>
        <b> Sesión 6 Linux bash </b>
        </td>
