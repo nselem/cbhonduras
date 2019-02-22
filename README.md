@@ -11,14 +11,14 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
         <td>Viernes 22       </td> <td>           Sábado 23                 </td>
   </tr>  
     <tr><td>      </td>   <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td></tr>
-    <tr><td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/">. bash </a> 
+    <tr><td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
         </td><td>
-        Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  </td></tr>  
+        Sesión 5 (9:10 -12:10) Análisis de secuencias <a href="paginas/git/sesion3.md>Git </a> y <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf>Markdown</a>  </td></tr>  
     <tr><td>
         Comida (12:00-12:45)</td><td> Comida (12:10-12:50)</td></tr>
     <tr><td>
         Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          </td>
-        <td>Sesión 6 (12:50-3:50) [Arboles y metadatos](paginas/genomica/genomica.md) </td>
+      <td>Sesión 6 (12:50-3:50) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
     </tr>
     <tr><td>
         Sesión 3 (04:00 - 7:00 pm)   Bases de datos   </td>
