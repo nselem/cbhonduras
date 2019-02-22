@@ -1,7 +1,7 @@
 # Biología computacional
 ![langebio](imagenes/langebio.png)  
 
-En este curso aprenderás un poco de biología commputacional las herramientas linux, git, Google docs y microreact.  
+En este curso aprenderás un poco de biología computacional las herramientas linux, git, Google docs y microreact.  
 
 
 ## Calendario  
