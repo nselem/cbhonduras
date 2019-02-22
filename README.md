@@ -35,16 +35,15 @@ Sesión 3 (04:00 - 7:00 pm)   Bases de datos   |Sesión 7 (4:00 -7:00 pm) Proyec
 <table> 
     <tr><td> <b> Sesión 1 Introducción y Linux bash </b> <br>
 1.1 Introducción a la biología y genética molecular. 
-    Aplicaciones de biología computacional es usada. 
-1.2 Biohack y la filosofía open software. 
-    Diseño en TinkerCad  
+    Aplicaciones de biología computacional es usada. <br>
+1.2 Biohack y la filosofía open software. <br>
+    Diseño en TinkerCad  <br>
 1.3.1 Linux/Unix, Principios básicos del Shell  <br>
 1.3.2 Comandos para el manejo de archivos y directorios   <br>
 1.3.3 Loops   <br>
 
 </td>
-    <td> <b> Sesión 2: Algoritmos Biológicos </b>
-Algoritmos usados en el mundo biológico, ensamblados, búsquedas, cadenas de Markov, visualización, etc.
+    <td> <b> Sesión 2: Algoritmos Biológicos </b>  
 2.1 Ensamblado  <br>  
 2.2 Alineamiento  <br>
 2.3 BLAST     <br>
