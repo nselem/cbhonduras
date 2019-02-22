@@ -10,7 +10,7 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
     <tr>
         <td>Viernes 22       </td> <td>           Sábado 23                 </td>
   </tr>  
-    <tr><td>  .    </td>  
+    <tr><td>                                               </td>  
       <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td>
   </tr>
     <tr><td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
