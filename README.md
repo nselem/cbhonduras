@@ -1,5 +1,5 @@
 # Biología computacional
-![langebio](imagenes/langebio.png)  
+![UniversidadMorazan](imagenes/morazan.png)  
 
 En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.   
 
