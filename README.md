@@ -12,7 +12,7 @@ En este curso aprenderás un poco de biología commputacional las herramientas l
 Sesión1 (9:00 - 12:00 am) [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Sesión 2        |
 Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Octubre 5  Presentación de proyecto.         |
 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |        ses   |
-
+ses 7 | ses 8 |  
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
@@ -54,7 +54,7 @@ Redes de información. STRING PriA la historia de los operones
        </td>
 </tr>
 
-
+<tr><td></td><td></td></tr>
 </table>    
        
 ____________
