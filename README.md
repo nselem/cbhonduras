@@ -5,14 +5,26 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
 
 
 ## Calendario  
-
-|        Viernes 22                                       |            Sábado 23                 |
-----------------------------------------------------------|--------------------------------------|
-|                                                         |    Sesión 4 Redes de información (7:00 - 9:00 am)|
-Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)|Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
-Comida (12:00-12:45)| Comida (12:10-12:50)|
-Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          | Sesión 6 (12:50-3:50) [Arboles y metadatos](paginas/genomica/genomica.md) | 
-Sesión 3 (04:00 - 7:00 pm)   Bases de datos   |Sesión 7 (4:00 -7:00 pm) Proyectos y exposición |
+<table>
+    <tr>
+        <td>Viernes 22       </td> <td>           Sábado 23                 </td></tr>
+    <tr><td></td>   <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td><tr>
+    <tr><td>
+Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)
+        </td><td>
+        Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  </td></tr>  
+    <tr><td>
+        Comida (12:00-12:45)</td><td> Comida (12:10-12:50)</td></tr>
+    <tr><td>
+        Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          </td>
+        <td>Sesión 6 (12:50-3:50) [Arboles y metadatos](paginas/genomica/genomica.md) </td>
+    </tr>
+    <tr><td>
+        Sesión 3 (04:00 - 7:00 pm)   Bases de datos   </td>
+        <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
+    </tr>
+    </table>
+    
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
@@ -74,14 +86,16 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
     </td> 
     <td><b>Sesión 8</b></td></tr>
 </table>    
-       
-________________________________________________________________________________________________________
-## Entregables  
-El objetivo del curso será que los alumnos tengan un panorama general de la Biología computacional, y que la vivan a través del desarrollo de sus primeros programas.  
-1) Github con un script   25%
-2) Bacteria identificada   5%
-3) Exposición de Proyecto 70% 
-___
+    
+      
+## Entregables    
+El objetivo del curso será que los alumnos tengan un panorama general de la Biología computacional, y que la vivan a través del desarrollo de sus primeros programas.   
+1) Github con un script   25%  
+2) Bacteria identificada   5%  
+3) Exposición de Proyecto 70%  
+  
+___  
+  
 ## Instalaciones y requerimientos previos  
 <h2 id="setup">Setup</h2>  
 
