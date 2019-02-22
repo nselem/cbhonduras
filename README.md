@@ -72,8 +72,11 @@ Redes de información. STRING PriA la historia de los operones
        
 ________________________________________________________________________________________________________
 ## Entregables  
-Proyecto  
-
+El objetivo del curso será que los alumnos tengan un panorama general de la Biología computacional, y que la vivan a través del desarrollo de sus primeros programas.  
+1) Github con un script   25%
+2) Bacteria identificada   5%
+3) Exposición de Proyecto 70% 
+___
 ## Instalaciones y requerimientos previos  
 <h2 id="setup">Setup</h2>  
 
