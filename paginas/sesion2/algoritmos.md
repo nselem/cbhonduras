@@ -9,8 +9,13 @@ Cuando se te entrega un genoma secuenciado genoma este viene en muchos pedazos d
 Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿De qué tamaño son tus pedazos en promedio? ¿Cómo le fue a tu compañero?  Discute los resultados y anótalos en el [documento colaborativo ](https://etherpad.net/p/compbio)  
 
 ## Distancia entre dos secuencias  
+La distancia mas simple entre dos secuencias es un 0 si tienen la misma base o un 1 si no la tienen. Mira el siguiente ejemplo 
 ![dis1](distanciaH1.png)  
+¿Qué pasa aquí?  
 ![dis2](dist2.png)  
+
+Cuál es la distancia de Hamming entre estas dos secuencias?? 
+
 ## Algoritmos de alineamiento    
 # Ejemplo 
 ¿Qué es un alineamiento?
