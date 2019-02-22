@@ -53,49 +53,9 @@ Diseño en TinkerCad  <br>
 2.4 Algoritmos de Bash Loops <br>
 </td>
 </tr>
-<tr> 
-<td><b> Sesión 3  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
-3.1 NCBI  <br>
-3.2 MIBiG  <br>
-3.3 antiSMASH <br> 
-3.4 Creando tu script  de bash <br>    
-3.5 Paquete de análisis: RAST  <br>  
-</td>
-<td> <b> Sesión 4 Redes de información y estructura de proteinas </b> <br>  
- 4.1 PriA ¿por qué se necesitan redes? <br>  
- 4.1 Operones y STRING   <br>  
- 4.2 Roseta,y evcouplings para la reconstrucción 3D   <br>  
- 4.3 Scripts en bash  <br>
-</td>
-</tr>  
-<tr>
-<td>
-<b> Sesión 5 Análisis de secuencias y GIT </b> <br>  
-5.1 Alineamiento   <br>  
-5.2 Contenido de GC   <br>  
-5.3 El respaldo y documentación de scripts <br>
-5.3.1 La importancia de documentar y respaldar el trabajo informático <br>
-5.3.2 Git Guardar los scripts en internet <br>
-5.3.3 MD Crear documentación organizada <br>
-5.3.4 Wiki git Documentar extensivamente scripts <br>
-</td> 
-<td>
-<b> Sesión 6 Árboles y metadatos </b> <br>  
-4.1 Crear un árbol a partir de un alineamiento <br>        
-4.2 Metadatos en proyectos genómicos <br>  
-4.3 MicroReact y la visualización de metadatos. <br>  
-</td>
-</tr>
-<tr> 
-<td>
-<b>Sesión 7</b>
-</td> 
-<td><b>Sesión 8</b>
-</td>
-</tr>
 </table>    
-    
-      
+     
+___         
 ## Entregables    
 El objetivo del curso será que los alumnos tengan un panorama general de la Biología computacional, y que la vivan a través del desarrollo de sus primeros programas.   
 1) Github con un script   25%  
