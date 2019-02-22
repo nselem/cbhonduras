@@ -25,7 +25,7 @@ Análisis de secuencias de ADN.
 Exposicion proyectos
 
 |                                                         |    Sesión 4 Redes de información (7:00 - 9:00 am)|
-Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)|Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
+|Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
 Comida (12:00-12:45)| Comida (12:10-12:50)|
 Sesión 2  (12:45 - 03:45 pm)           | Sesión 6 (12:50-3:50) [Arboles y metadatos](paginas/genomica/genomica.md) | 
 Sesión 3 (04:00 - 7:00 pm)   Bases de datos   |Sesión 7 (4:00 -7:00 pm) Proyectos y exposición |
@@ -54,10 +54,16 @@ Redes de información. STRING PriA la historia de los operones
        </td>
        </tr>
 <tr> 
-    <td><b> Sesión 3  Bases de datos, mapas El respaldo y documentación de scripts </b> <br>
-    
+    <td><b> Sesión 3  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
+NCBI  
+antiSMASH  
+pFAM  
+MIBiG  
+RAST  
+4.1
     </td>
-<td> <b> Sesión 4  Herramientas de genómica </b> <br>  
+<td> <b> Sesión 4 Redes de información Herramientas de genómica </b> <br>  
+     El respaldo y documentación de scripts 
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
 3.3 MD Crear documentación organizada <br>
