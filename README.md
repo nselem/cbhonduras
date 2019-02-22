@@ -4,17 +4,6 @@
 En este curso aprenderás un poco de biología commputacional las herramientas linux, git, Google docs y microreact.  
 
 
-Algoritmos usados en el mundo biológico. (BLAST)
-Bases de datos, mapas y gráficos usados en biología computacional.
-
-
-Redes de información. STRING PriA la historia de los operones
-Análisis de secuencias de ADN.
-
-Árboles filogenéticos. La historia de las Archaeas.. MicroReact
-Exposicion proyectos
-
-
 ## Calendario  
 
 |        Viernes 22                                       |            Sábado 23                 |
@@ -27,25 +16,47 @@ Sesión 3 (04:00 - 7:00 pm)   Bases de datos   |Sesión 7 (4:00 -7:00 pm) Proyec
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
+
+
+Redes de información. STRING PriA la historia de los operones
+Análisis de secuencias de ADN.
+
+Árboles filogenéticos. La historia de las Archaeas.. MicroReact
+Exposicion proyectos
+
+|                                                         |    Sesión 4 Redes de información (7:00 - 9:00 am)|
+Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)|Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
+Comida (12:00-12:45)| Comida (12:10-12:50)|
+Sesión 2  (12:45 - 03:45 pm)           | Sesión 6 (12:50-3:50) [Arboles y metadatos](paginas/genomica/genomica.md) | 
+Sesión 3 (04:00 - 7:00 pm)   Bases de datos   |Sesión 7 (4:00 -7:00 pm) Proyectos y exposición |
+
+
 ## Temario detallado  
 <table> 
-    <tr><td> <b> Sesión 1 Linux bash </b> <br>
-Introducción a la biología, genética molecular y situaciones en biología donde la biología computacional es usada. (Plática/Reflexión)
-BASH 1: Linux/Unix, Principios básicos del Shell  <br>
-    </td>
-    <td> <b> Sesión 2 Linux bash </b>
-BASH 2 Comandos para el manejo de archivos y directorios   <br>
-BASH 3 Loops   <br>
-BASH 4 Manejo de Scripts    <br>
-5 Encontrar información: grep y find. <br> </td>
-    
-Algoritmos usados en el mundo biológico. (BLAST)
+    <tr><td> <b> Sesión 1 Introducción y Linux bash </b> <br>
+1.1 Introducción a la biología y genética molecular. 
+    Aplicaciones de biología computacional es usada. 
+1.2 Biohack y la filosofía open software. 
+    Diseño en TinkerCad  
+1.3.1 Linux/Unix, Principios básicos del Shell  <br>
+1.3.2 Comandos para el manejo de archivos y directorios   <br>
+1.3.3 Loops   <br>
+
+</td>
+    <td> <b> Sesión 2: Algoritmos Biológicos </b>
+Algoritmos usados en el mundo biológico, ensamblados, búsquedas, cadenas de Markov, visualización, etc.
+2.1 Ensamblado  <br>  
+2.2 Alineamiento  <br>
+2.3 BLAST     <br>
+2.4 Algoritmos en Scripts    <br>
 Bases de datos, mapas y gráficos usados en biología computacional.
 Redes de información. STRING PriA la historia de los operones
        </td>
        </tr>
 <tr> 
-    <td><b> Sesión 3  El respaldo y documentación de scripts </b> <br></td>
+    <td><b> Sesión 3  Bases de datos, mapas El respaldo y documentación de scripts </b> <br>
+    
+    </td>
 <td> <b> Sesión 4  Herramientas de genómica </b> <br>  
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
