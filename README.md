@@ -54,7 +54,7 @@ Diseño en TinkerCad  <br>
 </td>
 </tr>
   <tr> 
-<td><b> Sesión 3  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
+    <td><b> <a href="paginas/sesion3/basesDatos.md">Sesión 3</a>  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
 3.1 NCBI  <br>
 3.2 MIBiG  <br>
 3.3 antiSMASH <br> 
