@@ -89,7 +89,7 @@ Diseño en TinkerCad  <br>
 <tr> 
 <td>
 <b>Sesión 7 </b>
-Dudas sobre el <a=href"paginas/proyectos/proyectos.md">proyecto final  </a><br>  
+Dudas sobre el <a href="paginas/proyectos/proyectos.md">proyecto final  </a><br>  
 </td> 
 <td><b>Sesión 8</b>
   Exposición de proyectos  
