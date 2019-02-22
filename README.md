@@ -16,30 +16,37 @@ Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Oct
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
 ## Temario detallado  
-<table> <tr><td> <b> Tema 1 Linux bash </b> <br>
+<table> <tr><td> <b> Sesión 1 Linux bash </b> <br>
 1.1 Linux/Unix, Principios básicos del Shell  <br>
 1.2 Comandos para el manejo de archivos y directorios   <br>
 1.3 Loops   <br>
 1.4 Manejo de Scripts    <br>
 1.5 Encontrar información: grep y find. <br> </td>
-       <td>
+       <td> <b> Sesión 2 Linux bash </b>
        Introducción a la biología, genética molecular y situaciones en biología donde la biología computacional es usada. (Plática/Reflexión)
 Algoritmos usados en el mundo biológico. (BLAST)
 Bases de datos, mapas y gráficos usados en biología computacional.
 Redes de información. STRING PriA la historia de los operones
        </td>
-<tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
+<tr><td> <b> Sesión 3  El respaldo y documentación de scripts </b> <br>
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
 3.3 MD Crear documentación organizada <br>
 3.4 Wiki git Documentar extensivamente scripts <br>
-<td> <b> Tema 4  Herramientas de genómica </b> <br>  
+<td> <b> Sesión 4  Herramientas de genómica </b> <br>  
 4.1 Descargar datos NCBI (Linux) <br>  
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
 4.4 Editar archivos para microreact: One liners <br>  
 4.5 Seaview crear un arbol para microreact. <br>   </td> </tr>
-       <tr><td></td><td></td></tr>
+<tr>
+      <td>
+       <b> Sesión 5 Linux bash </b>
+       </td>
+      <td>
+       <b> Sesión 6 Linux bash </b>
+       </td>
+</tr>
 
 
 </table>    
