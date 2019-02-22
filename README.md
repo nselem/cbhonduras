@@ -19,10 +19,10 @@ Exposicion proyectos
 
 |        Viernes 22                                       |            Sábado 24                 |
 ----------------------------------------------------------|--------------------------------------|
-Sesión1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |    Sesión 4(7:00 - 9:00 am)|
-Sesión 2  (9:00 - 12:00 am) Algoritmos              |Sesion 5 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
-Sesion 3(9:00 - 12:00 am)      | ses 6(9:00 - 12:00 am) |  
-||Sesion 7 Septiembre 28 [Arboles y metadatos](paginas/genomica/genomica.md) |
+Sesión1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |    Sesión 4 Redes de información (7:00 - 9:00 am)|
+Sesión 2  (9:00 - 12:00 am) Algoritmos Biológicos             |Sesion 5 Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
+Sesion 3(9:00 - 12:00 am)   Bases de datos   | ses 6 [Arboles y metadatos](paginas/genomica/genomica.md)  |  
+||Sesion 7 Proyectos y exposición |
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
@@ -70,7 +70,10 @@ Redes de información. STRING PriA la historia de los operones
     <td><b>Sesión 8</b></td></tr>
 </table>    
        
-____________
+________________________________________________________________________________________________________
+## Entregables  
+Proyecto  
+
 ## Instalaciones y requerimientos previos  
 <h2 id="setup">Setup</h2>  
 
