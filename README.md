@@ -37,7 +37,7 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 ## Temario detallado  
 <table> 
 <tr>
-<td> <b> Sesión 1 Introducción y Linux bash</b> <br>
+  <td> <b> <a href="paginas/linux/introduccion.md">Sesión 1</a> Introducción y Linux bash</b> <br>
 1.1 Introducción a la biología y genética molecular. <br>
 Aplicaciones de biología computacional. <br>
   1.2 Biohack y la filosofía open software. <br>
