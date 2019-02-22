@@ -19,10 +19,11 @@ Exposicion proyectos
 
 |        Viernes 22                                       |            Sábado 23                 |
 ----------------------------------------------------------|--------------------------------------|
-|               |    Sesión 4 Redes de información (7:00 - 9:00 am)|
+|                                                         |    Sesión 4 Redes de información (7:00 - 9:00 am)|
 Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)|Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
 Comida (12:00-12:45)| Comida (12:10-12:50)|
-Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos             | Sesión 6 [Arboles y metadatos](paginas/genomica/genomica.md)  Sesión 3(04:00 - 7:00 pm)   Bases de datos   |Sesión 7 Proyectos y exposición |
+Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          | Sesión 6 [Arboles y metadatos](paginas/genomica/genomica.md) | 
+Sesión 3(04:00 - 7:00 pm)   Bases de datos   |Sesión 7 Proyectos y exposición |
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
