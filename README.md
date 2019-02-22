@@ -58,9 +58,8 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 3.1 NCBI  <br>
 3.2 MIBiG  <br>
 3.3 antiSMASH <br> 
+3.4 Creando tu script  de bash <br>    
 3.5 Paquete de análisis: RAST  <br>  
-        
-4.1 <br>
     </td>
 <td> <b> Sesión 4 Redes de información y estructura de proteinas </b> <br>  
  4.1 PriA ¿por qué se necesitan redes? <br>  
