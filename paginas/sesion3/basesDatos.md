@@ -21,11 +21,11 @@ Anota en RAST Streptomyces coelicolor y tu organismo ensamblado
 Compáralos  
 
 ### [MIBiG](https://mibig.secondarymetabolites.org)    
-![antibioticos](antibioticos.png)
+![antibioticos](antibioticos.png)  
 Obten la secuencia de un gen que pertenezca a un cluster de antibióticos y anótala en el documento colaborativo  
 
 ### [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
-Anota rápidamente los genomas de Streptomyces
+Anota rápidamente los genomas de Streptomyces y de tu ensamblado. ¿Qué diferencias ves? Anóta tu conclusión en el documento colaborativo.  
 
 ### [Kegg](https://www.genome.jp/kegg/),[Brenda](https://www.brenda-enzymes.org/), [pfam](https://pfam.xfam.org/)     
 Busca HisA en ambas bases ¿Qué obtienes? 
