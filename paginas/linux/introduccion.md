@@ -1,6 +1,6 @@
 # Sesión 1 
 
-En esta sesión tendremos una plática de [Introducción] donde hablaremos que la biología compututacional puede aplicarse tanto en software como en hardware.  
+En esta sesión tendremos una plática de [Introducción](https://docs.google.com/presentation/d/1KAqX-04a1SJ_7_JD8wbF9rTOHVcUfmHmMM2xhBKcLI4/edit?usp=sharing) donde hablaremos que la biología compututacional puede aplicarse tanto en software como en hardware.  
 
 ## Ejemplo  
 Mira este [artículo](https://kids.frontiersin.org/article/10.3389/frym.2019.00014) de la colección Frontiers in Young Minds  
@@ -14,3 +14,6 @@ La parte de software la cubriremos con la [lección 1](https://swcarpentry.githu
   
 ## Ejercicio 2  
 Completa la leccion de placa con tu nombre de TinkerCad
+
+## Cierre 
+[Nuestro taller y la cadena de la bioinformática](https://docs.google.com/presentation/d/1wQqca33i2SCUj3j1AYKoPLWcLNsqY2ApQbsF10uhu9g/edit?usp=sharing)
