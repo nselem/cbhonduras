@@ -4,12 +4,26 @@
 En este curso aprenderás un poco de biología commputacional las herramientas linux, git, Google docs y microreact.  
 
 
+Algoritmos usados en el mundo biológico. (BLAST)
+Bases de datos, mapas y gráficos usados en biología computacional.
+
+
+Redes de información. STRING PriA la historia de los operones
+Análisis de secuencias de ADN.
+
+Árboles filogenéticos. La historia de las Archaeas.. MicroReact
+Exposicion proyectos
+
 
 ## Calendario  
 
 |        Viernes 22               |            Sábado 24                 |
 ----------------------------------|--------------------------------------|
-Sesión1 (9:00 - 12:00 am) [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Sesión 2  (9:00 - 12:00 am)      |
+Sesión1 (9:00 - 12:00 am) 
+
+Introducción a la biología y genética molecular
+Aplicaciones de la biología computacional.
+[Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Sesión 2  (9:00 - 12:00 am)      |
 Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Sesión (9:00 - 12:00 am)         |
 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  (9:00 - 12:00 am)      ses   |
 ses 7(9:00 - 12:00 am) | ses 8 (9:00 - 12:00 am) |  
