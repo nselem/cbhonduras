@@ -2,7 +2,8 @@
 
 
 ## [NCBI](https://www.ncbi.nlm.nih.gov/)  
-NCBI es una de las grandes bases de datos biológicas.   
+NCBI es una de las grandes bases de datos biológicas. Hay inormacion de genes, genomas proteinas, etc de muchos organismos.
+![Streptomyces](strepto.png)
 Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas  
 
 ## RAST  (http://rast.nmpdr.org/rast.cgi)  
