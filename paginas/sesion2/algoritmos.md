@@ -87,11 +87,12 @@ ACTGGGGGGGGAATNGTTTTCCTCAAGAAGGTAA
 Alineador [embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/)
 
 ## Blast  
-Blast es un alineador múltiple de secuencias que nos ayuda a encontrar otras parecidas. Hagamos blast del 16s de Streptomyces coelicolor.  
-
+Basic Local alignment search tool. Blast es un alineador múltiple de secuencias que nos ayuda a encontrar otras parecidas. Hagamos blast del 16s de Streptomyces coelicolor.  
+[blastn](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch)  
+[blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)  
 
 ## Haz tu propio algoritmo  
-Algoritmos en linux, [lección de loops]()  
+Algoritmos en linux, [lección de loops](https://swcarpentry.github.io/shell-novice-es/05-loop/index.html)  
 
 ### Lectura ¿Qué son los modelos de Markov?  
-Discute este artículo con tus compañeros  
+Discute este [artículo](https://www.nature.com/articles/nbt1004-1315) con tus compañeros  
