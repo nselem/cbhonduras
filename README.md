@@ -54,7 +54,10 @@ Redes de información. STRING PriA la historia de los operones
        </td>
 </tr>
 
-<tr><td></td><td></td></tr>
+<tr> <td>
+    <b>Sesión 7</b>
+    </td>
+    <td><b>Sesión 8</b></td></tr>
 </table>    
        
 ____________
