@@ -1,16 +1,17 @@
 # Biología computacional
 ![langebio](imagenes/langebio.png)  
 
-En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.  
+En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.   
 
-
-## Calendario  
+  
+## Calendario   
+  
 <table>
     <tr>
         <td>Viernes 22       </td> <td>           Sábado 23                 </td></tr>
     <tr><td></td>   <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td><tr>
     <tr><td>
-Sesión 1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)
+Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/">. bash </a> 
         </td><td>
         Sesión 5 (9:10 -12:10) Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  </td></tr>  
     <tr><td>
