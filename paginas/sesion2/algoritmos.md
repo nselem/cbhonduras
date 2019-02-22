@@ -9,6 +9,8 @@ Cuando se te entrega un genoma secuenciado genoma este viene en muchos pedazos d
 Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿De qué tamaño son tus pedazos en promedio? ¿Cómo le fue a tu compañero?  Discute los resultados y anótalos en el [documento colaborativo ](https://etherpad.net/p/compbio)  
 
 ## Distancia entre dos secuencias  
+(dis1)[imagenes/distanciaH1.png]  
+(dis2)[imagenes/dist2.png]  
 ## Algoritmos de alineamiento    
 # Ejemplo 
 ¿Qué es un alineamiento?
