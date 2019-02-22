@@ -17,14 +17,12 @@ Exposicion proyectos
 
 ## Calendario  
 
-|        Viernes 22               |            Sábado 24                 |
-----------------------------------|--------------------------------------|
-Sesión1 (9:00 - 12:00 am) 
-Introducción
-[Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Sesión 2  (9:00 - 12:00 am)      |
-Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Sesión (9:00 - 12:00 am)         |
+|        Viernes 22                                       |            Sábado 24                 |
+----------------------------------------------------------|--------------------------------------|
+Sesión1 (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Sesión 2  (9:00 - 12:00 am) Algoritmos      |
+|    Sesión (9:00 - 12:00 am)         |
 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  (9:00 - 12:00 am)      ses   |
-ses 7(9:00 - 12:00 am) | ses 8 (9:00 - 12:00 am) |  
+ses 7(9:00 - 12:00 am) Septiembre 28 [Arboles y metadatos](paginas/genomica/genomica.md) | ses 8 (9:00 - 12:00 am) Proyectos |  
 ## Informacion General  
 Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
