@@ -9,7 +9,7 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
 <table>
     <tr>
         <td>Viernes 22       </td> <td>           Sábado 23                 </td></tr>
-    </table>  
+</table>  
       
     
 ## Informacion General  
