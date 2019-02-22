@@ -1,5 +1,7 @@
 # Proyectos finales  
 
+Haz una presentación donde expliques los siguientes puntos:  
+
 1) Escoge una bacteria que sea de tu interés, ya sea una que produzca un antibiótico que conozcas, alguna que te haya causado una enfermedad, o alguna que produzca algo interesante.  
 2) Busca en NCBI su secuencia de aminoácidos de RpoB   
 3) Anótala en RAST  
