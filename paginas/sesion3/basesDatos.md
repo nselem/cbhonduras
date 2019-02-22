@@ -26,7 +26,7 @@ Obten la secuencia de un gen que pertenezca a un cluster de antibióticos y anó
 ### [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
 Anota rápidamente los genomas de Streptomyces
 
-### [Kegg](https://www.genome.jp/kegg/),[Brenda](https://www.brenda-enzymes.org/), [pfam]((https://pfam.xfam.org/))      
+### [Kegg](https://www.genome.jp/kegg/),[Brenda](https://www.brenda-enzymes.org/), [pfam](https://pfam.xfam.org/)     
 Busca HisA en ambas bases ¿Qué obtienes? 
 Toma la secuencia de HisA y analízala en pFAM, qué obtienes? 
 
