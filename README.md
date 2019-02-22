@@ -22,6 +22,12 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinfo
 1.3 Loops   <br>
 1.4 Manejo de Scripts    <br>
 1.5 Encontrar información: grep y find. <br> </td>
+       <td>
+       Introducción a la biología, genética molecular y situaciones en biología donde la biología computacional es usada. (Plática/Reflexión)
+Algoritmos usados en el mundo biológico. (BLAST)
+Bases de datos, mapas y gráficos usados en biología computacional.
+Redes de información. STRING PriA la historia de los operones
+       </td>
 <tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
