@@ -20,6 +20,7 @@ Exposicion proyectos
 |        Viernes 22                                       |            Sábado 23                 |
 ----------------------------------------------------------|--------------------------------------|
 _Sesión 1_ (9:00 - 12:00 am) Introducción y [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |    _Sesión 4_ Redes de información (7:00 - 9:00 am)|
+12:00-12:45 Comida| 12:00-12:30 Comida|
 Sesión 2  (9:00 - 12:00 am) Algoritmos Biológicos             |Sesión 5 Análisis de secuencias [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  |  
 Sesión 3(9:00 - 12:00 am)   Bases de datos   | Sesión 6 [Arboles y metadatos](paginas/genomica/genomica.md)  |  
 ||Sesión 7 Proyectos y exposición |
