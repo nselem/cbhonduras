@@ -60,15 +60,15 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 4.1 <br>
     </td>
 <td> <b> Sesión 4 Redes de información y estructura de proteinas </b> <br>  
- 4.1 PriA ¿por qué se necesitan redes?
- 4.1 Operones y STRING  
- 4.2 Roseta,y evcouplings para la reconstrucción 3D  
+ 4.1 PriA ¿por qué se necesitan redes? <br>  
+ 4.1 Operones y STRING   <br>  
+ 4.2 Roseta,y evcouplings para la reconstrucción 3D   <br>  
  4.3 Scripts en bash  <br>
 </td>
      <tr><td>
-<b> Sesión 5 Análisis de secuencias y GIT </b>
-    5.1 Alineamiento  
-    5.2 Contenido de GC  
+<b> Sesión 5 Análisis de secuencias y GIT </b> <br>  
+    5.1 Alineamiento   <br>  
+    5.2 Contenido de GC   <br>  
     5.3 El respaldo y documentación de scripts <br>
 5.3.1 La importancia de documentar y respaldar el trabajo informático <br>
 5.3.2 Git Guardar los scripts en internet <br>
@@ -76,13 +76,12 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 5.3.4 Wiki git Documentar extensivamente scripts <br>
          </td> 
       <td>
-       <b> Sesión 6 Árboles y metadatos </b>
+       <b> Sesión 6 Árboles y metadatos </b> <br>  
 4.1 Crear un árbol a partir de un alineamiento <br>        
 4.2 Metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
        </td>
 </tr>
-
 <tr> <td>
     <b>Sesión 7</b>
     </td> 
