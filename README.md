@@ -41,8 +41,7 @@ Redes de información. STRING PriA la historia de los operones
 3.3 MD Crear documentación organizada <br>
 3.4 Wiki git Documentar extensivamente scripts <br>
 </td>
-      <td>
-<tr><td>
+     <tr><td>
 <b> Sesión 5 Linux bash </b>
 4.1 Descargar datos NCBI (Linux) <br>  
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
