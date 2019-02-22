@@ -22,20 +22,12 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinfo
 1.3 Loops   <br>
 1.4 Manejo de Scripts    <br>
 1.5 Encontrar información: grep y find. <br> </td>
-    <td> <b> Tema 2  Google y la organización de documentos </b><br>
-2.1 Formas: Crear encuestas presentables. <br>
-2.2 Drive documentos del laboratorio, compartir documentos <br>
-2.3 Sites crear una página para el laboratorio <br>
-2.4 Calendar Organizar la agenda. <br>
-2.5 Tareas Organizar las tareas diarias. <br></td></tr>
-    <tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
+<tr><td> <b> Tema 3  El respaldo y documentación de scripts </b> <br>
 3.1 La importancia de documentar y respaldar el trabajo informático <br>
 3.2 Git Guardar los scripts en internet <br>
 3.3 MD Crear documentación organizada <br>
 3.4 Wiki git Documentar extensivamente scripts <br>
-3.5 Ejemplos: R también tiene markdown (MD) para documentar procedimientos <br>
-Docker y la repetibilidad de resultados en maquinas <br></td>
-      <td> <b> Tema 4  Herramientas de genómica </b> <br>  
+<td> <b> Tema 4  Herramientas de genómica </b> <br>  
 4.1 Descargar datos NCBI (Linux) <br>  
 4.2 Cómo tomar metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
