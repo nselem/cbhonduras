@@ -20,60 +20,58 @@ Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio
 ## Temario detallado  
 <table> 
     <tr><td> <b> Sesión 1 Introducción y Linux bash </b> <br>
-1.1 Introducción a la biología y genética molecular. 
+1.1 Introducción a la biología y genética molecular. <br>
     Aplicaciones de biología computacional. <br>
 1.2 Biohack y la filosofía open software. <br>
     Diseño en TinkerCad  <br>
 1.3.1 Linux/Unix, Principios básicos del Shell  <br>
 1.3.2 Comandos para el manejo de archivos y directorios   <br>
-1.3.3 Loops   <br>
+1.3.3 Pipes y filtros   <br>
 
 </td>
     <td> <b> Sesión 2: Algoritmos Biológicos </b>  <br>
 2.1 Ensamblado  <br>  
 2.2 Alineamiento  <br>
-2.3 BLAST     <br>
-2.4 Bash pipes 
-
-       </td>
+2.3 BLAST   (16s) <br>
+2.4 Algoritmos de Bash Loops <br>
+</td>
        </tr>
 <tr> 
     <td><b> Sesión 3  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
-NCBI  <br>
-antiSMASH <br> 
-pFAM  <br>
-MIBiG  <br>
-RAST  <br>
+3.1 NCBI  <br>
+3.2 MIBiG  <br>
+3.3 antiSMASH <br> 
+3.5 Paquete de análisis: RAST  <br>  
+        
 4.1 <br>
     </td>
 <td> <b> Sesión 4 Redes de información y estructura de proteinas </b> <br>  
-    Operones y PFAM
-    PriA
-Algoritmos en Scripts    <br>
+ 4.1 PriA ¿por qué se necesitan redes?
+ 4.1 Operones y STRING  
+ 4.2 Roseta,y evcouplings para la reconstrucción 3D  
+ 4.3 Scripts en bash  <br>
 </td>
      <tr><td>
-<b> Sesión 5 Análisis de secuencias /GIT Linux bash </b>
-El respaldo y documentación de scripts <br>
-3.1 La importancia de documentar y respaldar el trabajo informático <br>
-3.2 Git Guardar los scripts en internet <br>
-3.3 MD Crear documentación organizada <br>
-3.4 Wiki git Documentar extensivamente scripts <br>
-
-
-4.1 Descargar datos NCBI (Linux) <br>  
-4.2 Cómo tomar metadatos en proyectos genómicos <br>  
-4.3 MicroReact y la visualización de metadatos. <br>  
-4.4 Editar archivos para microreact: One liners <br>  
-4.5 Seaview crear un arbol para microreact. <br>  
+<b> Sesión 5 Análisis de secuencias y GIT </b>
+    5.1 Alineamiento  
+    5.2 Contenido de GC  
+    5.3 El respaldo y documentación de scripts <br>
+5.3.1 La importancia de documentar y respaldar el trabajo informático <br>
+5.3.2 Git Guardar los scripts en internet <br>
+5.3.3 MD Crear documentación organizada <br>
+5.3.4 Wiki git Documentar extensivamente scripts <br>
          </td> 
       <td>
        <b> Sesión 6 Árboles y metadatos </b>
+4.1 Crear un árbol a partir de un alineamiento <br>        
+4.2 Metadatos en proyectos genómicos <br>  
+4.3 MicroReact y la visualización de metadatos. <br>  
        </td>
 </tr>
 
 <tr> <td>
     <b>Sesión 7</b>
-    </td>
+    </td> 
     <td><b>Sesión 8</b></td></tr>
 </table>    
        
