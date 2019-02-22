@@ -1,7 +1,7 @@
 # Bioinformática  
 ![langebio](imagenes/langebio.png)  
 
-En este curso aprenderás un poco de las herramientas linux, git, Google docs y microreact.  
+En este curso aprenderás un poco de biología commputacional las herramientas linux, git, Google docs y microreact.  
 
 
 
@@ -13,7 +13,7 @@ Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)      
 Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Octubre 5  Presentación de proyecto.         | 
 
 ## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/bioinformatica  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
+Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
 ## Temario detallado  
 <table> <tr><td> <b> Tema 1 Linux bash </b> <br>
