@@ -10,7 +10,8 @@ Las bases de datos pueden ser públicas o privadas, acumulan información de los
 NCBI es una de las grandes bases de datos biológicas. Hay inormacion de genes, genomas proteinas, etc de muchos organismos.  
 
 ![Streptomyces](strepto.png)  
-Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas  
+Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
+Anota su taxonomía en el documento colaborativo.  
 
 
 ## [RAST](http://rast.nmpdr.org/rast.cgi)  
@@ -24,7 +25,7 @@ Obten la secuencia de un gen que pertenezca a un cluster de antibióticos y anó
 ## [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
 Anota rápidamente los genomas de Streptomyces
 
-## [Kegg](https://www.genome.jp/kegg/), Brenda, pfam    
+## [Kegg](https://www.genome.jp/kegg/),[Brenda](https://www.brenda-enzymes.org/), [pfam]((https://pfam.xfam.org/))      
 Busca HisA en ambas bases ¿Qué obtienes? 
 Toma la secuencia de HisA y analízala en pFAM, qué obtienes? 
 
