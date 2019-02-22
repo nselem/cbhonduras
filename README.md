@@ -1,4 +1,4 @@
-# Bioinformática  
+# Biología computacional
 ![langebio](imagenes/langebio.png)  
 
 En este curso aprenderás un poco de biología commputacional las herramientas linux, git, Google docs y microreact.  
@@ -7,7 +7,7 @@ En este curso aprenderás un poco de biología commputacional las herramientas l
 
 ## Calendario  
 
-|        Semana 1                 |            Semana 2                  |
+|        Viernes 22               |            Sábado 24                 |
 ----------------------------------|--------------------------------------|
 Septiembre 20 [Linux bash](https://swcarpentry.github.io/shell-novice-es/)               |   Septiembre 27 [Git](paginas/git/sesion3.md) y [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)       |
 Septiembre 28 [Metadatos y visualización](paginas/genomica/genomica.md)|    Octubre 5  Presentación de proyecto.         | 
