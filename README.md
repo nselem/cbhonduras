@@ -70,7 +70,7 @@ Diseño en TinkerCad  <br>
 </tr>  
 <tr>
 <td>
-  <b> Sesión 5 Análisis de secuencias y <a href="paginas/git/sesion3.md"> GIT</a> o <a hrf="paginas/drive/sitios.md">drive </a> </b> <br>  
+  <b> Sesión 5 Análisis de secuencias y <a href="paginas/git/sesion3.md"> GIT</a> o <a href="paginas/drive/sitios.md">drive </a> </b> <br>  
 5.1 Alineamiento   <br>  
 5.2 Contenido de GC   <br>  
 5.3 El respaldo y documentación de scripts <br>
