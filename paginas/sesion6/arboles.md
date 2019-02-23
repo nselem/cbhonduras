@@ -1,8 +1,8 @@
 # Arboles
 Toma tu alineamiento de RpoB  y conviértelo en un árbol.  
 Links de ayuda  
-Alineador muscle  
-Creador de árboles  
+[Alineador embl](https://www.ebi.ac.uk/Tools/msa/clustalw2/) muscle  
+[Creador de árboles](http://www.phylogeny.fr/simple_phylogeny.cgi) 
 ¿Qué observaste?  
 
 ## Metadatos  
