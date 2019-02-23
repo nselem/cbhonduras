@@ -1,6 +1,6 @@
 ## Redes  
 
-PriA es una proteina bifuncional, puede cataliar dos sustratos distinos. Toma la secuencia de PriA y vamos a STRING a revisar si contexto genómico.  También puedes buscarla como HisA Actinobacteria   
+PriA es una proteina bifuncional, puede cataliar dos sustratos distinos. Toma la secuencia de PriA y vamos a [STRING](https://string-db.org/) a revisar si contexto genómico.  También puedes buscarla como HisA Actinobacteria   
 
 >PriA_coelicolor  
 MSKLELLPAVDVRDGQAVRLVHGESGTETSYGSPLEAALAWQRSGAEWLHLVDLDAAFGTGDNRALIAEV  
