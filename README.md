@@ -80,7 +80,7 @@ Diseño en TinkerCad  <br>
 5.3.4 Wiki git Documentar extensivamente scripts <br>
 </td> 
 <td>
-<b> <a href="sesion6/arboles.md">Sesión 6 Árboles y metadatos </b> <br>  
+  <b> <a href="sesion6/arboles.md">Sesión 6 </a>Árboles y metadatos </b> <br>  
 4.1 Crear un árbol a partir de un alineamiento <br>        
 4.2 Metadatos en proyectos genómicos <br>  
 4.3 MicroReact y la visualización de metadatos. <br>  
