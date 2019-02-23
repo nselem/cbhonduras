@@ -3,8 +3,8 @@
 Haz una presentación donde expliques los siguientes puntos:  
 
 1) Escoge una bacteria que sea de tu interés, ya sea una que produzca un antibiótico que conozcas, alguna que te haya causado una enfermedad, o alguna que produzca algo interesante.  
-2) Busca en NCBI su secuencia de aminoácidos de RpoB   
-3) Anótala en RAST  
+2) Anota el genoma de tu bacteria en RAST 
+3) Busca en NCBI su secuencia de aminoácidos de RpoB   
 4) Localiza otras 10 bacterias taxonómicamente cercanas a ella (Por ejemplo puedes hacer BLAST con su RpoB)  
 5) Anota algunas de ellas en RAST  
 __________________________________________________________________________________________________________________  
