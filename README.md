@@ -61,7 +61,7 @@ Diseño en TinkerCad  <br>
 3.4 Creando tu script  de bash <br>    
 3.5 Paquete de análisis: RAST  <br>  
 </td>
-<td> <b> Sesión 4 Redes de información y estructura de proteinas </b> <br>  
+    <td> <b> <a href="paginas/sesion4/redes.md">Sesión 4</a> Redes de información y estructura de proteinas </b> <br>  
  4.1 PriA ¿por qué se necesitan redes? <br>  
  4.1 Operones y STRING   <br>  
  4.2 Roseta,y evcouplings para la reconstrucción 3D   <br>  
