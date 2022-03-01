@@ -55,7 +55,7 @@ e) Pega el link donde pide un archivo .csv
 f) da click en continue (without three)  
 g) Ingresa el título de tu proyecto de visualización  
 h) Visualiza tus resultados!  
-i) Ahora visualiza resultados de (SARS CoV 2 en México)[https://microreact.org/project/85AjpLvyqtUwLK133WGM3x-variantes-sars-cov-2-2022-enero]
+i) Ahora visualiza resultados de [SARS CoV 2 en México](https://microreact.org/project/85AjpLvyqtUwLK133WGM3x-variantes-sars-cov-2-2022-enero)
 ### Visualización simultánea de árboles y mapas
 
 Ahora regresa a la página principal de microrreact.  
