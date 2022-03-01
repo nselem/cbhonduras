@@ -50,7 +50,7 @@ Para agregar las coordenadas de tu lugar de nacimiento:
 a) Abre [Microreact  ](https://microreact.org/)  
 b) Inicia sesión utilizando tu cuenta de gmail  
 c) Da click en Upload  
-d) Ve a la hoja de cálculo y copia el link que está en 'File->Publish' o 'Archivo->Publicar'  
+d) Ve a la hoja de cálculo y copia el link que está en 'File->compartir ->Publish' o 'Archivo->Publicar como tsv'  
 e) Pega el link donde pide un archivo .csv  
 f) da click en continue (without three)  
 g) Ingresa el título de tu proyecto de visualización  
