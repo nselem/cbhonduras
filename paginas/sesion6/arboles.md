@@ -55,8 +55,9 @@ e) Pega el link donde pide un archivo .csv
 f) da click en continue (without three)  
 g) Ingresa el título de tu proyecto de visualización  
 h) Visualiza tus resultados!  
-
+i) Ahora visualiza resultados de (SARS CoV 2 en México)[https://microreact.org/project/85AjpLvyqtUwLK133WGM3x-variantes-sars-cov-2-2022-enero]
 ### Visualización simultánea de árboles y mapas
+
 Ahora regresa a la página principal de microrreact.  
 Selecciona el proyecto 'Zika virus in the Americas', discute con tu compañero de al lado y escriban sus respuestas en el documento colaborativo.  
 ¿En dónde se tuvo el primer registro de este virus?  
