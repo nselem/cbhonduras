@@ -35,7 +35,7 @@ Microreact es una plataforma de visualización de datos especializado en epidemi
 Nosotros utilizaremos esta plataforma para ver los lugares y años donde nacimos todos nosotros!   
 
 ###   Ejercicio primera parte
-Llena con tus datos la [Hoja de cáculo de google drive ](https://docs.google.com/spreadsheets/d/1unage_MobPV6Rv006GFud4lxfiFEfm0mrZwa_KPIuEo/edit?usp=sharing)
+Llena con tus datos la [Hoja de cáculo de google drive ](https://docs.google.com/spreadsheets/d/19_9jTWjhbPhkDd-mGMBmxuycgxJek9FrbsIV7J79YKI/edit?usp=sharing)
   
 Para agregar las coordenadas de tu lugar de nacimiento:
 1) Abre [Google Maps  ](https://www.google.com.mx/maps)  
